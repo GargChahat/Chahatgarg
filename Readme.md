@@ -1,1 +1,1 @@
-Welcome to sample github action workflow .
+Welcome to sample github action workflow.
